@@ -16,4 +16,8 @@ class MainActivity : BaseActivity<ActivityMainBinding>() {
 
     }
 
+    private fun test(){
+
+    }
+
 }
